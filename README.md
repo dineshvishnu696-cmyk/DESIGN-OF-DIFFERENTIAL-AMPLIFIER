@@ -42,9 +42,12 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-16 at 18 27 26_344bd76b](https://github.com/user-attachments/assets/d4d2c06b-0ab2-477e-924a-b69cd8f519be)
 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-16 at 18 27 49_03c2ecf0](https://github.com/user-attachments/assets/bb5a9e34-b775-4aa4-a2fd-a2683431ec08)
 
 
 ## RESULT:                   
+![WhatsApp Image 2025-11-16 at 18 07 16_f54a6eda](https://github.com/user-attachments/assets/17eacbfe-8b5b-42e1-a499-5e0953a4c4f5)
